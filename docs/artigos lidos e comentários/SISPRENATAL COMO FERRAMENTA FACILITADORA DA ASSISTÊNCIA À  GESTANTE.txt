@@ -1,0 +1,11 @@
+O SISPRENATAL é um instrumento de avaliação e permite o monitoramento da assistência pré-natal e puerperal fornecidas pelos serviços de saúde à mulher e ao recém-nascido "desde o primeiro atendimento na unidade de saúde até o atendimento hospitalar de alto risco"
+
+desenvolvido pelo DATASUS, o Programa de Humanização no Pré-Natal e Nascimento (PHPN) do SUS conhecido como SISPRENATAL.
+
+Nomes de bibliotecas:
+    Biblioteca VIrtual de Saúde (BVS)
+    Base de Dados em Enfermagem (BDENF)
+    Literatura Latino-Americana em Ciências da Saúde (LILACS)
+    Scientific ELectronic Library Online (SciELO)
+
+

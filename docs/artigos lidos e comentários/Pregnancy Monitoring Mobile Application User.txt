@@ -1,0 +1,3 @@
+esse artigo comenta sobre um app para a gestante
+ele busca alimentar uma base de dados usando giroscópio e imagem
+particularmente, não gostei muito e não sei se consigo usar algo daqui

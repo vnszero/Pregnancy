@@ -1,0 +1,79 @@
+resultados: pontuação em ruim e muito ruim. Por que?
+
+Diversos estudos (?) destacam a baixa credibilidade dos sistemas de informação oriunda da: 
+- má qualidade dos dados 
+- omissão no preenchimento dos campos nos documentos básicos que os alimentam 
+- inconsistência dos dados
+
+preenchimento correto de informações:
+possibilita a definição de prioridades, mobilização 
+de recursos e desenvolvimento de políticas públicas para 
+uma assistência de qualidade com consequente redução da 
+morbimortalidade materna e neonatal
+
+critérios de incompletitude propostos por Romero e Cunha
+
+Para a primeira consulta, as variáveis utilizadas foram: 
+- situação conjugal 
+- escolaridade, 
+- raça/cor, 
+- Data da Última Menstruação (DUM), 
+- altura, 
+- peso na primeira consulta, 
+- vacinação antitetânica, 
+- fumo, 
+- álcool, 
+- visita a maternidade, 
+- gravidez planejada, 
+- realizou atendimento odontológico, 
+- peso prévio, 
+- exame ginecológico, 
+- exame das mamas 
+- exame clínico. 
+
+Para as consultas de acompanhamento utilizou-se: 
+- exames laboratoriais de urina (Elementos Anormais do Sedimento - EAS), 
+- glicemia de jejum, hemoglobina (Hb), 
+- hematócrito (Ht), 
+- HbsAg, 
+- testagem anti-HIV (Vírus da Imunodeficiência Humana), 
+- tipagem sanguínea e fator Rh, 
+- toxoplasmose, 
+- urocultura, 
+- teste para sífilis (VDRL - Venereal Disease Research Laboratory), 
+- vacinas antitetânica, 
+- hepatite B
+- influenza 
+- procedimentos técnicos de peso, 
+- pressão arterial (PA), 
+- altura do fundo uterino (AFU), 
+- apresentação fetal, 
+- movimentos fetais, 
+- batimentos cardiofetais (BCF), 
+- pesquisa de edema em membros inferiores 
+- exame de ultrassonografia (USG) nos itens idade 
+- gestacional (IG), 
+- peso fetal, 
+- placenta, 
+- líquido amniótico,
+- participação em atividade coletiva 
+- consulta odontológica 
+- consulta puerperal realizada com informações sobre grau de risco gestacional, 
+- local do parto definidos no Programa de Humanização do Pré-natal e Nascimento (PHPN),
+- tipo de parto, definidos no Programa de Humanização do Pré-natal e Nascimento (PHPN),
+- Rede Cegonha,
+- Manual Técnico do Ministério da Saúde,
+
+critérios de avaliação CEPAL
++ acessibilidade = disponibilidade dos dados, forma como foram obtidos, o tipo de informação, o local e o fluxo a seguir, o tempo de entrega e o formato dos arquivos
++ clareza metodológica = instruções de coleta, manuais de preenchimento e documentação da base de dados. Relacionado com máscaras de campos: "é ponto ou vírgula para números? Tem que por o símbolo? É kg ou g?"
++ oportunidade = tempo entre a entrega dos resultados e o período de referência estabelecido para a disponibilidade dos dados ao usuário ou a quem se destina
++ completitude = quantos campos em brando de cada variável com classificação dos dados atribuída
+    @ excelente (menor 5%)
+    @ bom (maior igual 5% e menor 10%)
+    @ regular (maior igual 10% e menor 20%)
+    @ ruim (maior igual 20% e menor 50%)
+    @ muito ruim (maior igual 50%)
+
+
+

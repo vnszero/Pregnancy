@@ -1,0 +1,6 @@
+excesso de campos de preenchimento é ruim: sugiro que apenas informações pertinentes estejam no cadastro
+os campos precisam ser claros: ponto, vírgula, unidade de medida
+importante definir os atores e oq cada um deve preencher: enfermeiros, médicos, a própria gestante, etc.
+
+promover algum incentivo para agilizar pré-natal?????? talvez não cabe a esse software resolver esse problema.
+importar e exportar base de dados: estabelecer uma forma de comunicação com outros sistemas de saúde

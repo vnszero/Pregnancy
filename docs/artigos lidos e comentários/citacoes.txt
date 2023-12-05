@@ -1,0 +1,99 @@
+feitos
+Segundo Maia (2017) 74% dos campos da ficha clínica de assitência de alimentação do SISPRENATAL web no município de Vitória/ES via Rede Bem Estar teve sua qualidade pontuada como ruim ou muito ruim.
+
+O programa estabelece os seguintes procedimentos a serem realizados no acompanhamento da gestação: início 
+da assistência pré-natal até o quarto mês de gestação 
+(16 semanas); mínimo de seis consultas para gestantes sem complicações [COUTINHO, 2010; citado por BARBOSA, 2014], uma no primeiro trimestre, duas no 
+segundo e três no terceiro; rotina de exames – sendo 
+solicitados na primeira consulta: tipagem sanguínea, 
+dosagem de hemoglobina (Hg)/hematócrito (Ht), glicemia, VDRL, anti-HIV e exame de urina (EAS), e no 
+início do terceiro trimestre gestacional: VDRL, glicemia 
+e EAS; vacinação antitetânica; consulta puerperal [DOMINGUES, 2012, citado por BARBOSA, 2014].
+
+“Em geral, o funcionário da unidade 
+responsável pelo registro das informações nas planilhas 
+do SISPRENATAL não participa da consulta que gerou 
+tais dados” [ANDREUCCI, 2011; citado por BARBOSA, 2014]
+
+
+Segundo Barbosa [2014] grande parte das gestantes tarda em realizar o pré-natal, mais de 120 dias do início da gestação, o que compromete a quantidade mínima, 6, de consultas necessárias. Além da falta de aderência com as consultas. Dessa forma os registros ficam prejudicados.
+
+
+Para 1489 puérperas incluídas no estudo, os problemas mais 
+freqüentes na gestação destacaram-se anemia, hipertensão arterial, infecção do trato urinário e trabalho de 
+parto pré-termo. Quase metade das internações durante a 
+gestação foi por infecções do trato urinário. As mulheres 
+encaminhadas ao pré-natal de alto risco tinham, em sua 
+maioria, hipertensão arterial e/ou diabetes [ANDREUCCI, 2011]
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Referências prontas
+
+Coutinho T, Monteiro MFG, Sayd JD, Teixeira MTB, 
+Coutinho CM, Coutinho LM. Monitoramento do processo de assistência pré-natal entre as usuárias do Sistema 
+Único de Saúde em município do Sudeste brasileiro. Rev 
+Bras Ginecol Obstet. 2010; 32(11): 563-9
+
+Domingues RMSM, Hartz ZMA, Dias MAB, Leal MC. 
+Avaliação da adequação da assistência pré-natal na rede SUS 
+do município do Rio de Janeiro, Brasil. Cad Saúde Pública, 
+Rio de Janeiro.2012; 28(3):425-37
+
+Andreucci CB, Cecatti JG, Macchetti CE, Sousa MH. 
+Sisprenatal como instrumento de avaliação da qualidade 
+da assistência à gestante. Rev Saúde Pública. 2011; 45(5): 
+854-63
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Existem muitos aplicativos disponíveis na playstore que podem ser acessados por qualquer pessoa (BROWN et al, 2020). porém falta regulamentação por parte de um órgão especializado para avaliar a qualidade dos aplicativos e até mesmo remover aqueles de baixa qualidade (BROWN et al, 2019). Assim, gestantes tem acesso à aplicativos que podem não apenas promover uma experiência ruim de usuário como propagar informações falsas e colocar em risco a saúde da mulher. (HUGHSON et al, 2018).
+
+BROWN, Hannah M. et al. A review of pregnancy apps freely available in the Google Play Store. Health Promotion Journal of Australia, v. 31, n. 3, p. 340-342, 2020.
+
+HUGHSON, Jo-anne Patricia et al. The rise of pregnancy apps and the implications for culturally and linguistically diverse women: narrative review. JMIR mHealth and uHealth, v. 6, n. 11, p. e189, 2018.
+
+BROWN, Hannah M. et al. A review of pregnancy iPhone apps assessing their quality, inclusion of behaviour change techniques, and nutrition information. Maternal & child nutrition, v. 15, n. 3, p. e12768, 2019.
+
+--------------------------------------------------------
+
+Foi definida por Stoyanov (2015) a ferramenta Mobile App rating Scale (MARS). De forma resumida, esse método permite avaliar a qualidade da aplicação com base em 4 categorias: engajamento (entrenenimento, interesse, consumo, interatividade e público alvo), funcionalidade (desempenho, facilidade de usar, navegação, arquitetura), estética (padrão, gráficos, aparência visual) e qualidade da informação (precisão, objetivos, credibilidade, base de evidências). Cada categoria pode receber uma pontuação de 1 a 5, definindo 5 escalas: inadequado, ruim, razoável, bom, excelente. A pontuação final é a média aritmética das pontuações de cada categoria (STOYANOV, 2015). Duas aplicações que conseguiram boa pontuação no critério MARS foram My Pregnancy & Baby Today e 
+Ovia Pregnancy Tracker & Baby Countdown Calender (BROWN, 2020).
+
+STOYANOV, Stoyan R. et al. Mobile app rating scale: a new tool for assessing the quality of health mobile apps. JMIR mHealth and uHealth, v. 3, n. 1, p. e3422, 2015.
+
+--------------------------------------------------------------
+
+Pelo estudo que foi feito com o aplicativo Babywijzer, foi possível compreender que as gestantes fazem questão de encontrar um portal com informações relevantes sobre sua saúde, dieta e rotina. Entretanto, os obstetras entendem que a aplicação não deve ser via de comunicação entre profissional e paciente para que não ocorra sobrecarga da equipe médica e que não crie falsa expectativa de atendimento instantâneo na gestante (WIERCKX e AL MAHMUD, 2014). Ainda segundo Wierckx e Al Mahmud (2014), foi possível recuperar 10 regras de negócio pertinentes ao software em construção: 1) registro de informações relacionadas com a saúde da gestante. 2) possibilidade de visualizar de forma geral o histórico de informações relacionadas (peso e pressão sanguínea). 3) acesso a informativos relacionados à alimentação, hábitos e medicamentos.
+
+WIERCKX, Anouk; SHAHID, Suleman; AL MAHMUD, Abdullah. Babywijzer: an application to support women during their pregnancy. In: CHI'14 Extended Abstracts on Human Factors in Computing Systems. 2014. p. 1333-1338.
+
+----------------------------------------------------------------
+
+Segundo o comitê American College of Obstetricians and Gynecologists (ACOG, 2017) o método de determinação da idade gestacional via Ultrassom é o mais adequado até o sexto dia da 13ª semana. Caso a gravidez tenha perfil de inseminação artificial, a idade gestacional é determinada com base na data estimada. Outra referência alternativa é a data da última menstruação (DUM). Isso tudo para chegar na máxima que uma gravidez onde não exista confirmação da data estimada para o nascimento da criança por ultrassom até a 22ª semana de gestação, será considerada como uma informação menos precisa.
+
+ACOG. Methods for estimating the due date. Obstet. Gynecol., v. 129, p. 959-960, 2017.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+
+Referências por explorar
+
+Genitsaridi I, Kondylakis H, Koumakis L, Marias K, Tsiknakis M. Evaluation of personal health record systems through the lenses of EC research projects. Comput Biol Med. 2015 Apr;59:175-185. doi: 10.1016/j.compbiomed.2013.11.004. Epub 2013 Nov 25. PMID: 24315661.
+
+Misha Kay, Jonathan Santos, and Marina Takane. mhealth: New horizons for health through mobile technologies. World Health Organization, 64(7):66–71, 2011.
+
+Francisca Fonseca, Hugo Peixoto, Filipe Miranda, Jos´e Machado, and Ant´onio Abelha. Step towards prediction of perineal tear. Procedia Computer Science, 113:565–570, 2017
+
+Marie Gunnel Oscarsson, Erica Medin, Ida Holmstr¨om, and Lena Lendahls. Using the internet as source of information during pregnancy-a descriptive cross-sectional study among fathers-to-be in sweden. Midwifery, 62:146–150, 2018.
+
+Vasan Subramanian. Pro MERN stack: full stack web app development with Mongo, Express, React, and Node. Springer, 2017.
+

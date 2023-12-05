@@ -1,0 +1,8 @@
+peso
+altura
+pressão arterial
+vacinas
+	h1n1
+	hepatite B
+	Tétano
+	dTPa atual

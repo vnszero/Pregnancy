@@ -1,0 +1,6 @@
+sistema de upload de exames para gestante
+sistema de embedding para encontrar remédios
+sistema de árvore para busca do histórico
+
+e se a grávida estiver no segundo filho? na mesma conta
+e se ocorrer aborto?

@@ -1,0 +1,7 @@
+IMC calculado
+gráfico IMC(y) / idade gestacional(x)
+gráfico altura uterina(y) / idade gestacional(x)
+atualizar idade gestacional
+
+gráfico para gestação de gêmeos
+gerar cartão pre natal
