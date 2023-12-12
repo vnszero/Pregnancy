@@ -1,7 +1,9 @@
 in_file = open('in.txt', 'r')
 out_file = open('out.txt', 'w')
 countFigure = 1
+headerFigure = 1
 countTable = 1
+headerTable = 1
 countAt = 0
 countSharp = 1
 lines = in_file.readlines()
@@ -25,6 +27,12 @@ for line in lines:
         if '$countTable' in to_write:
             to_write = to_write.replace('$countTable', str(countTable))
             countTable += 1
+        if '$headerFigure' in to_write:
+            to_write = to_write.replace('$headerFigure', str(headerFigure))
+            headerFigure += 1
+        if '$headerTable' in to_write:
+            to_write = to_write.replace('$headerTable', str(headerTable))
+            headerTable += 1
         if '@@' in to_write:
             countAt += 1
             pattern = str(countAt) + '. '
