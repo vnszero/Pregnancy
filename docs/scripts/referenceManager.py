@@ -1,5 +1,9 @@
 in_file = open('in.txt', 'r')
 out_file = open('out.txt', 'w')
+countFigure = 1
+countTable = 1
+countAt = 0
+countSharp = 1
 lines = in_file.readlines()
 state = 'references'
 counter = 1
@@ -15,6 +19,21 @@ for line in lines:
         base[key] = reference
     elif state == 'body':
         to_write = line
+        if '$countFigure' in to_write:
+            to_write = to_write.replace('$countFigure', str(countFigure))
+            countFigure += 1
+        if '$countTable' in to_write:
+            to_write = to_write.replace('$countTable', str(countTable))
+            countTable += 1
+        if '@@' in to_write:
+            countAt += 1
+            pattern = str(countAt) + '. '
+            to_write = to_write.replace('@@', pattern)
+            countSharp = 1
+        if '##' in to_write:
+            pattern = str(countAt) + '.' + str(countSharp) + '. '
+            to_write = to_write.replace('##', pattern)
+            countSharp += 1
         for key in base.keys():
             if key in to_write:
                 if key in already_identified_keys.keys():
