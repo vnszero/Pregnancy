@@ -13,7 +13,7 @@ base = {}
 counted_references = {}
 already_identified_keys = {}
 for line in lines:
-    if '@@' in line:
+    if '!!' in line:
         state = 'body'
     
     if state == 'references':
@@ -33,6 +33,8 @@ for line in lines:
         if '$headerTable' in to_write:
             to_write = to_write.replace('$headerTable', str(headerTable))
             headerTable += 1
+        if '!!' in to_write:
+            to_write = ''
         if '@@' in to_write:
             countAt += 1
             pattern = str(countAt) + '. '
