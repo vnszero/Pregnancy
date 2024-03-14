@@ -1,0 +1,53 @@
+volume de dados não se mostra preocupante
+
+aponta que apenas a flag de identificação do grupo ativo/desativo
+    é suficiente para separar os grupos no BD
+    deixar o SGBD cuidar do acesso aos dados
+
+talvez não seja necessário guardar os arquivos dos exames
+    pouco provável do meu sistema funcionar sozinho
+    pode ser melhor focar nos resultados
+
+tratamento de erros para entradas do forms
+itens podem ser atualizados normalmente
+
+backup?
+
+talvez a solução seja integrada em um sistema hospitalar maior
+trabalhar bem interfaces de importação e exportação
+
+alguns sistemas que podem ser usados em clínicas e hospitais:
+###gestão de clinica fechados###
+IClinic, 
+OnMed, 
+ProDoctor, 
+Clinica nas nuvens, 
+Feegow Clinic, 
+Totvs, 
+IMedicina, 
+Shosp, 
+4Medic, 
+DoctorMax, 
+CM Tecnologia,
+
+###gestão hospitalar fechados###
+AGHU,
+MV PEP,
+MV SOUL,
+Hospital Management System,
+Epic Systems,
+Cerner Corporation,
+McKesson Corporation,
+Meditech,
+Allscripts Healthcare Solutions,
+NextGen Healthcare,
+Tasy, 
+
+###open source###
+Odoo (OpenERP),
+
+###open source e gratuitos###
+OpenMRS,
+GNU Health,
+HospitalRun,
+FreeMED
