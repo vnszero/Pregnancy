@@ -1,0 +1,51 @@
+tem uma cara de 2012
+página inicial pouco intuitiva
+ferramenta de caráter prontuário
+falha de segurança: porta exposta no link
+dados dos gráficos diferentes dos dados dos cartões
+dados pouco relacionados (sem estatística entre pacientes)
+campos de valor congelados pra não levar not null 
+itens de menu com nomes pouco sugestivos
+
+consultas fantasmas agendadas e finalizadas???? pode ter sido um erro do usuário
+dados só atualizam com F5, depois de preencher um forms
+
+códigos internacional de doença
+CID
+
+Código internacional de atendimento primário
+CIAP
+
+sem acesso a exames pois é muito trabalhoso
+seria correto ter os exames
+
+enfermeiro que sai preenchendo informações de peso, altura, etc
+
+observações recorrentes podem ser sugeridas ao médico
+
+SOAP
+Subjetivo Objetivo Avaliação e Plano
+
+copiar receitas anteriores
+
+posologia de remédios
+
+agrupar exames:
+primeira rotina
+segunda rotina
+terceira rotina
+
+ultrassom e ultrassonografia ==> termos diferentes para falar da mesma coisa
+
+idade com anos, meses e dias?
+
+prescrição de remédios - gera papel
+exames - gera papel
+encaminhamento para outro médico especialista - gera papel
+
+atendimentos fecham automaticamente em 24h
+
+não tem como desmarcar consulta
+
+vídeo tutorial do sistema no youtube
+https://www.youtube.com/watch?v=rxBcHPbatmQ
