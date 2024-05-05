@@ -1,9 +1,0 @@
-<x-layout>
-    <header>
-        <button>Profissionais</button>
-        <button>Gestantes</button>
-        <button>Registrar</button>
-    </header>
-    <main>Feed</main>
-    <footer>Footer</footer>
-</x-layout>

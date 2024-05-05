@@ -2,10 +2,16 @@ body {
     background-color: antiquewhite;
 }
 
+button {
+    margin: auto;
+    width: 200px;
+}
+
 header{
     display: flex;
-    margin: auto;
     flex-flow: column wrap;
+    margin: auto;
+    padding-bottom: 16px;
 }
 
 main {
