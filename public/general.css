@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+}
+
+header{
+    display: flex;
+    margin: auto;
+    flex-flow: column wrap;
+}
+
+main {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
