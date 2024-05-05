@@ -1,0 +1,45 @@
+Atoms
+    LargeButton
+        |_ Fill White and Black Stroke
+        |_ All Black
+    InputField
+        |_ placeholder as label
+        |_ security eye config
+    Return
+    NavItem
+    NavButton
+    SearchBar
+    SearchFilter
+    DownloadButton
+    UploadButton
+    EditButton
+    AddButton
+    MaxMinButton
+    Card
+    Image
+    RadioButton
+
+Molecules
+    AppointementCard
+        |_ Card
+        |_ Card
+        |_ EditButton (hide)
+    Forms
+        |_ [1,] InputField
+        |_ [1,] RadioButton
+        |_ [1,] LargeButton
+    ItemCard
+        |_ Card
+        |_ EditButton (hide)
+    PatientCard
+        |_ Card
+        |_ Card
+        |_ EditButton (hide)
+    SearchField
+        |_ SearchBar
+        |_ SearchFilter
+    SectionHeader
+        |_ AddButton (hide)
+        |_ MaxMinButton
+
+Organisms
