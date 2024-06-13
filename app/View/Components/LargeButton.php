@@ -15,6 +15,10 @@ class LargeButton extends Component
      */
     public function __construct(string $variant = 'standard')
     {
+        $alternatives = ['standard', 'invert'];
+        if (!in_array($variant, $alternatives)) {
+            throw new \InvalidArgumentException("Invalid variant: {$variant}");
+        }
         $this->variant = $variant;
     }
 
@@ -26,13 +30,19 @@ class LargeButton extends Component
         return view('components.large-button');
     }
 
+    /**
+     * Get the CSS classes for the button based on the variant.
+     *
+     * @return string
+     */
     public function buttonClass(): string
     {
-        $buttonClass =[
+        $buttonClasses = [
             'standard' => 'bg-white text-black rounded border border-black mt-4 p-4',
             'invert' => 'bg-black text-white rounded border border-black mt-4 p-4'
         ];
 
-        return $buttonClass[$this->variant] ?? '';
+        return $buttonClasses[$this->variant] ?? '';
     }
 }
+?>
