@@ -1,4 +1,6 @@
 {{-- atom component  --}}
-<button class="{{ $buttonClass() }}">
-    {{ $slot }}
-</button>
+<a href="{{ $url }}">
+    <button class="{{ $buttonClass() }}" >
+        {{ $slot }}
+    </button>
+</a>

@@ -3,9 +3,10 @@
 @section('title', 'Landing Page')
 
 @section('header')
-    <x-large-button>Profissionais</x-large-button>
-    <x-large-button>Gestantes</x-large-button>
-    <x-large-button variant="invert">Registrar</x-large-button>
+    <nav>
+        <x-large-button variant="standard" url="{{ route('login') }}">Login</x-large-button>
+        <x-large-button variant="invert" url="{{ route('register') }}">Registrar</x-large-button>
+    </nav>
 @endsection
 
 @section('content')

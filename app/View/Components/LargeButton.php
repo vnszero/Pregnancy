@@ -9,17 +9,19 @@ use Illuminate\View\Component;
 class LargeButton extends Component
 {
     public string $variant;
+    public string $url;
     
     /**
      * Create a new component instance.
      */
-    public function __construct(string $variant = 'standard')
+    public function __construct(string $variant = 'standard', string $url)
     {
         $alternatives = ['standard', 'invert'];
         if (!in_array($variant, $alternatives)) {
             throw new \InvalidArgumentException("Invalid variant: {$variant}");
         }
         $this->variant = $variant;
+        $this->url = $url;
     }
 
     /**

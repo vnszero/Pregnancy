@@ -3,14 +3,10 @@ body {
 }
 
 button {
-    margin: auto;
     width: 200px;
 }
 
 header{
-    display: flex;
-    flex-flow: column wrap;
-    margin: auto;
     padding-bottom: 16px;
 }
 
@@ -18,6 +14,12 @@ main {
     background-color: white;
     margin: 0 auto;
     max-width: 720px;
+}
+
+nav {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
 }
 
 footer {
