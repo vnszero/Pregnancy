@@ -11,3 +11,8 @@ Route::post('/login', [AuthController::class, 'login']);
 
 Route::get('/register', [AuthController::class, 'showRegisterForm'])->name('register');
 Route::post('/register', [AuthController::class, 'register']);
+
+Route::post('/logout', [AuthController::class, 'destroy'])->name('logout');
+
+Route::get('/dashboard', [RouteController::class, 'dashboard'])->middleware('role:visitor');
+
