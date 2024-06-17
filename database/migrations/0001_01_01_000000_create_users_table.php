@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
+            $table->string('role')->default('visitor'); // Adiciona a coluna 'role' com valor padrão 'visitor'
             $table->rememberToken();
             $table->timestamps();
         });
