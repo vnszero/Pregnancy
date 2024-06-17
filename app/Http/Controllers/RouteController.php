@@ -11,4 +11,10 @@ class RouteController extends Controller
         return view('lp');
 
     }
+
+    public function dashboard() {
+
+        return view('dashboard');
+        
+    }
 }
