@@ -4,7 +4,7 @@ use App\Http\Controllers\RouteController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 
-Route::get('/', [RouteController::class, 'index']);
+Route::get('/', [RouteController::class, 'index'])->name('index');
 
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);

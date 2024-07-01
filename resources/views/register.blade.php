@@ -3,7 +3,7 @@
 @section('title', 'Cadastro')
 
 @section('header')
-    <button>Return</button>
+    <x-large-button variant="invert" url="{{ route('index') }}">Voltar</x-large-button>
 @endsection
 
 @section('content')
