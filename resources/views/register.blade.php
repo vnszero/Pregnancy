@@ -3,14 +3,14 @@
 @section('title', 'Cadastro')
 
 @section('header')
-    <x-large-button variant="invert" url="{{ route('index') }}">Voltar</x-large-button>
+    <x-large-button variant="invert" url="{{ route('landingPage') }}">Voltar</x-large-button>
 @endsection
 
 @section('content')
 <form method="POST" action="{{ route('register') }}">
     @csrf
     <div class="mb-4">
-        <label for="name" class="block text-sm font-medium text-gray-700">Name</label>
+        <label for="name" class="block text-sm font-medium text-gray-700">Nome</label>
         <input id="name" type="text" name="name" required class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
     </div>
     <div class="mb-4">
@@ -18,15 +18,15 @@
         <input id="email" type="email" name="email" required class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
     </div>
     <div class="mb-4">
-        <label for="password" class="block text-sm font-medium text-gray-700">Password</label>
+        <label for="password" class="block text-sm font-medium text-gray-700">Senha</label>
         <input id="password" type="password" name="password" required class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
     </div>
     <div class="mb-4">
-        <label for="password_confirmation" class="block text-sm font-medium text-gray-700">Confirm Password</label>
+        <label for="password_confirmation" class="block text-sm font-medium text-gray-700">Confirmar Senha</label>
         <input id="password_confirmation" type="password" name="password_confirmation" required class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
     </div>
     <div class="flex items-center justify-between">
-        <button type="submit" class="px-4 py-2 bg-blue-500 text-white rounded">Register</button>
+        <button type="submit" class="px-4 py-2 bg-blue-500 text-white rounded">Cadastrar</button>
     </div>
     
     @if ($errors->any())

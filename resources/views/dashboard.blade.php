@@ -4,10 +4,9 @@
 
 @section('header')
     <nav>
-        <p>Bem-vindo!!</p>
         <form action="{{ route('logout') }}" method="POST">
             @csrf
-            <button type="submit">Logout</button>
+            <x-large-button variant="invert" url="{{ route('register') }}">Sair</x-large-button>
         </form>
     </nav>
 @endsection

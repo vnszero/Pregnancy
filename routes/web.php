@@ -4,7 +4,7 @@ use App\Http\Controllers\RouteController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 
-Route::get('/', [RouteController::class, 'index'])->name('index');
+Route::get('/', [RouteController::class, 'index'])->name('landingPage');
 
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
@@ -14,5 +14,5 @@ Route::post('/register', [AuthController::class, 'register']);
 
 Route::post('/logout', [AuthController::class, 'destroy'])->name('logout');
 
-Route::get('/dashboard', [RouteController::class, 'dashboard'])->middleware('role:visitor');
+Route::get('/dashboard', [RouteController::class, 'dashboard'])->name('dashboard')->middleware('role:visitor');
 
