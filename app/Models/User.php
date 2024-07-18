@@ -44,4 +44,9 @@ class User extends Authenticatable
     protected $attributes = [
         'role' => self::ROLE_VISITOR,
     ];
+
+    public function personalDetails()
+    {
+        return $this->hasOne(PersonalDetails::class);
+    }
 }
