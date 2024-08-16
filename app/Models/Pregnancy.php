@@ -52,4 +52,24 @@ class Pregnancy extends Model
     {
         return $this->belongsTo(User::class);
     }
+
+    public function consultations()
+    {
+        return $this->hasMany(Consultation::class);
+    }
+
+    public function medications()
+    {
+        return $this->hasMany(Medication::class);
+    }
+
+    public function exams()
+    {
+        return $this->hasMany(Exam::class);
+    }
+
+    public function vaccines()
+    {
+        return $this->hasMany(Vaccine::class);
+    }
 }
